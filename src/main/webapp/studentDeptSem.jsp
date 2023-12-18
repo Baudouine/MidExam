@@ -55,7 +55,7 @@
 				</select>
 			</div>
 		</div>
-		<button type="submit" class="btn btn-primary ms-3">Find Students</button>
+		<button type="submit" class="btn btn-success ms-3">Find Students</button>
 	</form>
 </div>
 

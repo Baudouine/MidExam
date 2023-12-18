@@ -42,7 +42,7 @@
 				<select name="courseCode" class="form-control" id="courseCode">
 					<option value="none">-- Select Course --</option>
 					<%for(CourseModel course : courses){ %>
-						<option value="${course.courseCode}" > <%= course.getCourseName() %> </option>
+						<option value=<%= course.getCourseCode() %>> <%= course.getCourseName() %> </option>
 					<%} %>
 				</select>
 			</div>

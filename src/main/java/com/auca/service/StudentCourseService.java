@@ -1,5 +1,15 @@
 package com.auca.service;
 
-public class StudentCourseService {
+import java.util.List;
 
+import com.auca.model.CourseModel;
+import com.auca.model.StudentCourseModel;
+
+public interface StudentCourseService {
+	
+	void saveStudentCourse(StudentCourseModel studentCourse);
+	
+	List<StudentCourseModel> getAllStudentCourses();
+	
+	List<StudentCourseModel> getAllStudentsByCourses(CourseModel course);
 }

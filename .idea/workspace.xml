@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c757796-5d15-45d6-b247-dc62d049737a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/build/classes/com/auca/dao/StudentCourseDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/com/auca/dao/StudentCourseDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/com/auca/model/StudentCourseModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/com/auca/model/StudentCourseModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/com/auca/service/StudentCourseService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/com/auca/service/StudentCourseService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/com/auca/serviceImpl/StudentCourseServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/com/auca/serviceImpl/StudentCourseServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/auca/dao/StudentCourseDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/auca/dao/StudentCourseDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/auca/model/StudentCourseModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/auca/model/StudentCourseModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/auca/service/StudentCourseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/auca/service/StudentCourseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/auca/serviceImpl/StudentCourseServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/auca/serviceImpl/StudentCourseServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/findStudentSem.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/findStudentSem.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/semCourse.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/semCourse.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/studentDeptSem.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/studentDeptSem.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/studentRegistration.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/studentRegistration.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2ZiksgHSKJZbZ4VUbGt6juBz0WT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Elvis/Desktop/Mid/MidSemProject/MidSemProject",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c757796-5d15-45d6-b247-dc62d049737a" name="Changes" comment="" />
+      <created>1702912497568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702912497568</updated>
+      <workItem from="1702912504414" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
